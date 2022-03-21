@@ -1,0 +1,5 @@
+recebo a idade
+se idade a idade for menor ou igual a 15, não pode votar.
+se nao, se a idade for maior que 16 e menor ou igual a 17, voto opcional.
+se a idade for maior que 18 e menor ou igual a 70 voto obrigatorio.
+se nao, se a idade for maior que 70 voto opcional.
